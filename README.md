@@ -1,2 +1,2 @@
 # BlackHole-Algorithm
-BlackHole algorithm implemeted in java. OOPS concepts are used to help the user embed accordingly.
+BlackHole algorithm is an optimization algorithm inspired from nature. It has proven to explore the complete search pace and return global-maxima in reasonable number of iterations. Here is a link to my blog where I have explained the code and the algorithm - 
